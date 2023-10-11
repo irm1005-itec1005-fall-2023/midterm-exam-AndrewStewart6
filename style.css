@@ -59,7 +59,6 @@ header {
   justify-content:center;
   align-items:start;
   object-fit:cover
-  width: 400px;
 }
 
 .flex_container {
@@ -72,7 +71,6 @@ header {
   justify-content:center;
   align-items:center;
   object-fit:cover
-  width: 400px;
 }
 
 .hot {
