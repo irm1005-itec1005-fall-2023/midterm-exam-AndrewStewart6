@@ -92,7 +92,7 @@ button {
   Border-top-right-radius:1.5rem;
   Border-top-left-radius:1.5rem;
   background-color:white;
-  width:50rem;
+  object-fit:cover;
 }
 
 .h499 {
